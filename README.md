@@ -1,8 +1,8 @@
 ## Howdie visitors! 😀 👋
 
 This is Miguel and welcome to my repo 🙂
-<p>I'm currently learning <strong>JavaScript</strong> (and its neverending stack...), and i try always to have a taste of every part of my projects (backend, frontend, databases). Still trying to understand where to fit in, but definitly having more fun in <strong>React with Redux</strong> though.
-<br/>Find my favorite stack below (feel free to reach me if any idea catch you up)!</p><p>More about me: Love to learn new technologies, considering myself a <strong>huge enthusiast of <u>IoT</u></strong> solutions and really believe i'm the right learning path to develope products that can make the difference in peoples lifes! </p>
+<p>I'm currently learning <strong>JavaScript</strong> (and its neverending stack...), and i try always to have a taste of every part of my projects (backend, frontend, databases).
+<br/>Still trying to understand where to fit in, but definitly having more fun in <strong>React with Redux</strong> though. Find my favorite stack below (feel free to reach me if any idea catch you up)!</p><p>More about me: Love to learn new technologies, considering myself a <strong>huge enthusiast of <u>IoT</u></strong> solutions and really believe i'm the right learning path to develope products that can make the difference in peoples lifes! </p>
 
 
 <!--
