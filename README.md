@@ -1,4 +1,9 @@
-### Hello  👋
+### Howdie visitors! 😀 👋
+
+This is Miguel and welcome to my repo 🙂
+I'm currently learning JavaScript, and here you might find some of my projects. Find my favorite stack below (feel free to reach me if any idea catch you up)!
+More about me: Love to learn new technologies, considering myself a huge enthusiast of IoT solutions and really believe i'm the right learning path to develope products that can make the difference in peoples lifes! 
+
 
 <!--
 **pmcc12/pmcc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
