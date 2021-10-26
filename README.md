@@ -1,7 +1,7 @@
 ### Howdie visitors! 😀 👋
 
 This is Miguel and welcome to my repo 🙂
-<p>I'm currently learning JavaScript, and here you might find some of my projects. <br/>Find my favorite stack below (feel free to reach me if any idea catch you up)!</p><p>More about me: Love to learn new technologies, considering myself a <strong>huge enthusiast of <u>IoT</u></strong> solutions and really believe i'm the right learning path to develope products that can make the difference in peoples lifes! </p>
+<p>I'm currently learning JavaScript, and here you might find some of my projects. Find my favorite stack below (feel free to reach me if any idea catch you up)!</p><p>More about me: Love to learn new technologies, considering myself a <strong>huge enthusiast of <u>IoT</u></strong> solutions and really believe i'm the right learning path to develope products that can make the difference in peoples lifes! </p>
 
 
 <!--
