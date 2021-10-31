@@ -9,7 +9,7 @@ I'm Miguel and welcome to my repo
 ### How you can reach me:
 <p>
 
-  <a href="https://www.linkedin.com/in/paulo-carvalho-99353b77/">
+  <a href="https://www.linkedin.com/in/pmcc12/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Miguel LinkedIn Profile" height="30" width="30">
   </a>
 
